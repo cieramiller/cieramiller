@@ -1,0 +1,56 @@
+p {}
+#setting {
+  	text-align: left;
+  	color: black;
+    font-size: 16px;
+}
+#action {
+  	text-align: left;
+    color: black;
+}
+#character {
+  	text-align: center;
+    color: black;
+}
+#parenthetical {
+  	text-align: center;
+  	color: black;
+}
+#dialogue {
+  	text-align: center;
+  	color: black;
+}
+#transition {
+  	text-align: right;
+  	color: black;
+    font-size: 16px;
+}
+#title {
+  	text-align: center;
+  	color: blue;
+    font-size: 36px;
+    font-family: cursive;
+}
+#vocab {
+  border-collapse: collapse;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+#vocab td, #vocab th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  align: center;
+}
+
+#vocab tr:nth-child(even){background-color: mistyrose;}
+
+#vocab th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: coral;
+  color: black;
+}
