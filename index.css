@@ -1,9 +1,8 @@
 body
 {background-color: orange;}
 
-header
-{background-color: royalblue;
-  font-family: "times";
+h1
+{ font-family: "times";
   font-size: 48px;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -12,7 +11,7 @@ header
 }
 
 h2
-{color: royalblue;
+{color: white;
 padding-top: 2px;
 font-size: 24px;
 padding-left: 5px;}
@@ -24,14 +23,6 @@ h3
   font-stretch: normal;
 }
 
-h4 
-  {color:slate;
-   font-family: "times";
-    font-weight: normal;
-    font-size: 16px;
-    padding-left: 5px;
-  }
-
 aside {
   align: width: 25%;
   padding-top: 7px;
@@ -40,7 +31,7 @@ aside {
 }
 
 footer
-{background-color: royalblue;
+{background-color: lightpurple;
   font-family: "copperplate";
-  color: royalblue;
+  color: lightpurple;
 }
