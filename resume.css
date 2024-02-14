@@ -1,31 +1,46 @@
+body
+{background-color: oldlace;}
+
 header
-{background-color: #8FBC8F;
+{background-color: royalblue;
   font-family: "times";
   font-size: 48px;
-  padding-bottom: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  color:white;
 }
+
 h2
-{background-color:oldlace;
-padding-top: 24px;}
+{color: royalblue;
+padding-top: 2px;
+font-size: 24px;
+padding-left: 5px;}
 
 h3
-{background-color: #8FBC8F;
-  font-family: "times";
-  font-size: 18px;
-  padding-top: 0px;
+{ font-family: "arial";
+  font-size: 10px;
+  color: white;
+  font-stretch: normal;
 }
 
+h4 
+  {color:slate;
+   font-family: "times";
+    font-weight: normal;
+    font-size: 16px;
+    padding-left: 5px;
+  }
+
 aside {
-  width: 30%;
-  padding-left: 0px;
-  margin-left: 0px;
-  padding-right: 4px;
-  margin-right: 4px;
+  align: width: 25%;
+  padding-top: 7px;
+  padding-right: 30px;
   float: left;
-  background-color:oldlace;
 }
+
 footer
-{background-color: #5ce1f4;
-  font-family: "copperplate", fantasy;
-  font-size: 1em;
+{background-color: royalblue;
+  font-family: "copperplate";
+  color: royalblue;
 }
